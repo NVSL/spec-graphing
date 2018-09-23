@@ -8,3 +8,8 @@ make specINT.png
 The make file will download all the results for the SPEC CPU benchmarks and plot performance over time.  In theory it should work for FP as well, but there are some bugs.
 
 Special thanks for to spec.org for providing data in a useful format.
+
+## Requirements
+
+You'll need `wget`, `gnuplot`, and `python`.
+
